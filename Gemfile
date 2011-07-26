@@ -6,3 +6,4 @@ gem 'rdiscount'
 gem 'RedCloth'
 gem 'rspec'
 gem 'gollum-site' #, :git => 'git://github.com/dreverri/gollum-site.git'
+gem "s3sync"
